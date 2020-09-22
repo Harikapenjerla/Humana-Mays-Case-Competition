@@ -14,4 +14,4 @@ https://mays.tamu.edu/humana-tamu-analytics/
 
 ## Exploratory Data Analysis
 
-[Python Code](https://github.com/Harikapenjerla/Parking-Lot-Model-Arena-Simulation/blob/master/Presentation.pdf)
+[Python Code](https://colab.research.google.com/github/Harikapenjerla/Humana-Mays-Case-Competition/blob/master/Exploratary_Analysis.ipynb)
