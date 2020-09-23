@@ -14,4 +14,4 @@ https://mays.tamu.edu/humana-tamu-analytics/
 
 ## Exploratory Data Analysis
 
-[Python Code](https://colab.research.google.com/github/Harikapenjerla/Humana-Mays-Case-Competition/blob/master/Exploratary_Analysis.ipynb)
+[Python Code](https://github.com/Harikapenjerla/Humana-Mays-Case-Competition/blob/master/Exploratory_Data_Analysis_HUMANA.ipynb)
